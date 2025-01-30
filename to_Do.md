@@ -46,4 +46,6 @@ Colocar na tabela linhas paras os problemas de cooautoria dela.
 
 - [On the Sequential and Parallel Complexity of Matching in Chordal and Strongly Chordal Graphs](https://www.academia.edu/28503665/On_the_Sequential_and_Parallel_Complexity_of_Matching_in_Chordal_and_Strongly_Chordal_Graphs)
 
--
+- [A Linear Algorithm for Computing of a Minimum Weight Maximal Induced Matching in an Edge-Weighted Tree](https://www.sciencedirect.com/science/article/pii/S1571066117300875) (Linear para tree)
+
+- [On the Complexity of String Matching for Graphs](https://arpi.unipi.it/handle/11568/1033614) (pode ser linear para grafos direcionados e sem ciclos)
